@@ -1,0 +1,7 @@
+.spinner-border-container {
+    height: 92vh;
+    width: 99%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
